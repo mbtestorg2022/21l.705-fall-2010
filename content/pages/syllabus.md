@@ -39,14 +39,75 @@ The work for this course supports and carefully leads up to a substantial projec
 
 ### Grading
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| In-class presentation | 15% |
-| Essay 1: Close reading (5 pp.) | 15% |
-| Prospectus and annotated bibliography (5 pp.) | 10% |
-| Progress report (2 pp.) | 5% |
-| Essay 2: Research essay (15 pp.) | 30% |
-| Attendance and participation | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 1: Close reading (5 pp.)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Prospectus and annotated bibliography (5 pp.)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Progress report (2 pp.)
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 2: Research essay (15 pp.)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 MIT Statement on Plagiarism
 ---------------------------
@@ -56,31 +117,424 @@ Plagiarism—use of another's intellectual work without acknowledgment—is a se
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part One: Humans in Nature**{{< /td-colspan >}} |||
-| 1 | Introduction: On and Off the Scientific Grid | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Melville. _Moby-Dick: A Longman Critical Edition_, chapter 32 {{< br >}}{{< br >}} Wilson. "[Melville, Darwin, and the Great Chain of Being](http://lion.chadwyck.com/marketing/index.jsp)" {{< br >}}{{< br >}}  | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Melville. _Moby-Dick: A Longman Critical Edition_, chapters 1-9 {{< br >}}{{< br >}} Library Workshop (Preparation for preliminary research on report topic) {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Melville. _Moby-Dick: A Longman Critical Edition_, chapters 10-24 {{< br >}}{{< br >}} Report Topic: Exploration (James Cook, Wilkes Exploring Expedition, Darwin's _Voyage of the Beagle_) {{< br >}}{{< br >}}  | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Melville. _Moby-Dick: A Longman Critical Edition_, chapters 25-40 {{< br >}}{{< br >}} Report Topics: Taxonomy and Comparative Anatomy (Cuvier, Owen, Linnaeus) {{< br >}}{{< br >}} Natural History of the Whale:  {{< br >}}(Beale) {{< br >}}{{< br >}}  | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Melville. _Moby-Dick: A Longman Critical Edition_, chapters 41-53 {{< br >}}{{< br >}} Report Topic: Racial Science (Josiah Nott, Samuel Morton, Richard Knox) {{< br >}}{{< br >}} Optics:  {{< br >}}(Goethe) {{< br >}}{{< br >}} Cartography:  {{< br >}}(Maury) {{< br >}}{{< br >}}  | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} Melville. _Moby-Dick: A Longman Critical Edition_, chapters 54-66 {{< br >}}{{< br >}} Report Topic: Illustration and Image (Goldsmith, Scoresby, Garneray, J. Ross Browne) {{< br >}}{{< br >}}  | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} Melville. _Moby-Dick: A Longman Critical Edition_, chapters 67-82 {{< br >}}{{< br >}} Report Topic: Dissection and the Brain  {{< br >}}(Phrenology, Gall and Spurzheim) {{< br >}}{{< br >}}  | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} Melville. _Moby-Dick: A Longman Critical Edition_, chapters 83-98 {{< br >}}{{< br >}} Report Topic: Sex and Social Behavior  {{< br >}}(Scoresby and Beale, Chambers, Darwin) {{< br >}}{{< br >}}  | &nbsp; |
-| 10 |  {{< br >}}{{< br >}} Melville. _Moby-Dick: A Longman Critical Edition_, chapters 99-117 {{< br >}}{{< br >}} Report Topic: Geology and the Fossil Record  {{< br >}}(Lyell, Chambers, Cuvier) {{< br >}}{{< br >}}  | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} Melville. _Moby-Dick: A Longman Critical Edition_, chapters 118-"Epilogue" {{< br >}}{{< br >}} Report Topic: New Technology in the Nineteenth-Century  {{< br >}}(Machinery, The Railroad) {{< br >}}{{< br >}}  | &nbsp; |
-| 12 |  {{< br >}}{{< br >}} Melville. "The Encantadas" {{< br >}}{{< br >}} Report Topic: Darwin and the Evolution of Evolution {{< br >}}{{< br >}}  | &nbsp; |
-| 13 | "The Encantadas" (cont.) | Essay 1 (5 pp) due |
-| 14 |  {{< br >}}{{< br >}} Thoreau. _Walden and Other Writings_. {{< br >}}{{< br >}} "Economy" {{< br >}}{{< br >}}  | &nbsp; |
-| 15 |  {{< br >}}{{< br >}} Thoreau. _Walden and Other Writings_. (cont.) {{< br >}}{{< br >}} "Where I Lived and What I Lived For", "Reading," "Sounds," "Visitors," "The Bean Field" {{< br >}}{{< br >}}  | &nbsp; |
-| 16 |  {{< br >}}{{< br >}} Thoreau. _Walden and Other Writings_. (cont.) {{< br >}}{{< br >}} "The Village," "The Ponds," "Baker Farm," "Higher Laws," "Brute Neighbors," "Housewarming" {{< br >}}{{< br >}}  | &nbsp; |
-| 17 |  {{< br >}}{{< br >}} Thoreau. _Walden and Other Writings_. (cont.) {{< br >}}{{< br >}} "Former Inhabitants; and Winter Visitors," "Winter Animals," "The Pond in Winter," "Spring," "Conclusion" {{< br >}}{{< br >}}  | Prospectus and annotated bibliography for final essay due 5 days after Ses #17 |
-| {{< td-colspan 3 >}}**Part Two: Nature In Humans**{{< /td-colspan >}} |||
-| 18 | Jewett. _The Country of the Pointed Firs and Other Stories._ | &nbsp; |
-| 19 | Jewett. _The Country of the Pointed Firs and Other Stories._ (cont.) | &nbsp; |
-| 20 | Wharton. _The House of Mirth_, Book I, chapters 1-9. | &nbsp; |
-| 21 | Wharton. _The House of Mirth_, Book I, chapters 10-15, Book II, chapters 1-2. | &nbsp; |
-| 22 | Wharton. _The House of Mirth,_ to conclusion. | Progress report (2 pp) due |
-| 23 | Morrison. _A Mercy._ | &nbsp; |
-| 24 | Morrison. _A Mercy_. (cont.) | Final essay (15 pp) plus documentation due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part One: Humans in Nature**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: On and Off the Scientific Grid
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Melville. _Moby-Dick: A Longman Critical Edition_, chapter 32
+
+Wilson. "[Melville, Darwin, and the Great Chain of Being](http://lion.chadwyck.com/marketing/index.jsp)"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Melville. _Moby-Dick: A Longman Critical Edition_, chapters 1-9
+
+Library Workshop (Preparation for preliminary research on report topic)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Melville. _Moby-Dick: A Longman Critical Edition_, chapters 10-24
+
+Report Topic: Exploration (James Cook, Wilkes Exploring Expedition, Darwin's _Voyage of the Beagle_)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Melville. _Moby-Dick: A Longman Critical Edition_, chapters 25-40
+
+Report Topics: Taxonomy and Comparative Anatomy (Cuvier, Owen, Linnaeus)
+
+Natural History of the Whale:  
+(Beale)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Melville. _Moby-Dick: A Longman Critical Edition_, chapters 41-53
+
+Report Topic: Racial Science (Josiah Nott, Samuel Morton, Richard Knox)
+
+Optics:  
+(Goethe)
+
+Cartography:  
+(Maury)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Melville. _Moby-Dick: A Longman Critical Edition_, chapters 54-66
+
+Report Topic: Illustration and Image (Goldsmith, Scoresby, Garneray, J. Ross Browne)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Melville. _Moby-Dick: A Longman Critical Edition_, chapters 67-82
+
+Report Topic: Dissection and the Brain  
+(Phrenology, Gall and Spurzheim)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Melville. _Moby-Dick: A Longman Critical Edition_, chapters 83-98
+
+Report Topic: Sex and Social Behavior  
+(Scoresby and Beale, Chambers, Darwin)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Melville. _Moby-Dick: A Longman Critical Edition_, chapters 99-117
+
+Report Topic: Geology and the Fossil Record  
+(Lyell, Chambers, Cuvier)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Melville. _Moby-Dick: A Longman Critical Edition_, chapters 118-"Epilogue"
+
+Report Topic: New Technology in the Nineteenth-Century  
+(Machinery, The Railroad)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Melville. "The Encantadas"
+
+Report Topic: Darwin and the Evolution of Evolution
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+"The Encantadas" (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 (5 pp) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Thoreau. _Walden and Other Writings_.
+
+"Economy"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Thoreau. _Walden and Other Writings_. (cont.)
+
+"Where I Lived and What I Lived For", "Reading," "Sounds," "Visitors," "The Bean Field"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Thoreau. _Walden and Other Writings_. (cont.)
+
+"The Village," "The Ponds," "Baker Farm," "Higher Laws," "Brute Neighbors," "Housewarming"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Thoreau. _Walden and Other Writings_. (cont.)
+
+"Former Inhabitants; and Winter Visitors," "Winter Animals," "The Pond in Winter," "Spring," "Conclusion"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Prospectus and annotated bibliography for final essay due 5 days after Ses #17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part Two: Nature In Humans**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Jewett. _The Country of the Pointed Firs and Other Stories._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Jewett. _The Country of the Pointed Firs and Other Stories._ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Wharton. _The House of Mirth_, Book I, chapters 1-9.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Wharton. _The House of Mirth_, Book I, chapters 10-15, Book II, chapters 1-2.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Wharton. _The House of Mirth,_ to conclusion.
+{{< tdclose >}}
+{{< tdopen >}}
+Progress report (2 pp) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Morrison. _A Mercy._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Morrison. _A Mercy_. (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Final essay (15 pp) plus documentation due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
